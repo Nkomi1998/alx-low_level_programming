@@ -1,5 +1,4 @@
  File: 0-positive_or_negative.c
- * Auth: Abbigail Makwela
  */
 
 #include <stdlib.h>
